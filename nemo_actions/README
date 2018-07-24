@@ -1,0 +1,4 @@
+Nemo contextual menu action making a still video out of a picture and an audio file.
+
+create_video.nemo_action and create_video.py must be copied in ~/.local/share/nemo/actions/
+

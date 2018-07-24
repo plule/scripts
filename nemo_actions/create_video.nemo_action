@@ -1,0 +1,14 @@
+[Nemo Action]
+
+Active=true
+Name=Make a video
+Comment=Make a still video out of a picture and a sound
+Exec=<create_video.py %P %F>
+Icon-Name=video
+Selection=2
+Extensions=jpg;jpeg;png;wav;mp3;
+Dependencies=ffmpeg;python3;
+EscapeSpaces=true
+Terminal=true
+
+Name[fr]=Faire une vidéo
